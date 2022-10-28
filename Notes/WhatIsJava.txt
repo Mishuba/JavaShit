@@ -1,0 +1,17 @@
+Java was created in 1995 
+It is owned by Oracle
+
+It is used for 
+    - Mobile applications 
+    - Desktop applications 
+    - Web applications 
+    - Web servers and application servers 
+    - Games 
+    - Database connection 
+
+What use Java 
+    - Jave works on (Windows, Mac, Linux, Raspberry Pi, Etc)
+    - It is open-source and free 
+    - It is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs 
+    - is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa 
+    
